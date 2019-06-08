@@ -1,2 +1,0 @@
-# site-paniura
-Repositorio Principal
